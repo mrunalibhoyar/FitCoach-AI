@@ -1,11 +1,11 @@
 # FitCoach-AI
 AI-powered Fitness Buddy Agent using IBM watsonx Orchestrate and IBM Granite.
 
-# 🏋️ FitGenie AI – Personalized Fitness Buddy Agent
+# 🏋️ FitCoach AI – Personalized Fitness Buddy Agent
 
 ## Overview
 
-FitGenie AI is an AI-powered Fitness Buddy Agent developed as part of an IBM SkillsBuild internship project using **IBM watsonx Orchestrate**, **IBM Granite**, and **IBM Cloud Lite**.
+FitCoach AI is an AI-powered Fitness Buddy Agent developed as part of an IBM SkillsBuild internship project using **IBM watsonx Orchestrate**, **IBM Granite**, and **IBM Cloud Lite**.
 
 The project provides personalized fitness guidance by understanding user goals, fitness level, workout preferences, lifestyle, and health limitations. It acts as a virtual fitness coach that helps users create customized workout plans, develop healthy habits, and receive basic nutrition guidance.
 
@@ -114,7 +114,7 @@ This repository serves as the project documentation and demonstrates the overall
 
 ## Developed By
 
-**Mrunali Bhoyar**
+**Mrunali**
 
 Computer Engineering Student
 
