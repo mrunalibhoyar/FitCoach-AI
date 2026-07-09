@@ -17,7 +17,7 @@ Many people struggle to maintain a healthy lifestyle because of busy schedules, 
 
 Traditional fitness applications usually provide generic workout plans that do not consider individual fitness goals, experience, or personal preferences.
 
-FitGenie AI addresses this challenge by providing intelligent and personalized fitness recommendations through an AI-powered conversational assistant.
+FitCoach AI addresses this challenge by providing intelligent and personalized fitness recommendations through an AI-powered conversational assistant.
 
 ---
 
